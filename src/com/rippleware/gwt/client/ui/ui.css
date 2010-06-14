@@ -1,0 +1,29 @@
+
+.notificationBar{
+	width:100%;
+	color:black;
+	position:fixed;
+	top:0;
+	left:0;
+	padding:10px;
+	z-index: 322222;		
+}
+
+.warn{
+	background-color: orange;	
+}
+
+.error{
+	background-color: red;
+}
+
+.info{
+	background-color: green;	
+}
+
+.formFields {
+	margin: 1em 0;
+	padding: 1em;
+	border: 1px solid #ccc;
+	background: #f8f8f8;
+}

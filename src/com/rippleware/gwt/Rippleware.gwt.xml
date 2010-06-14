@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='rippleware'>
+	<stylesheet src="Jcrop/jquery.Jcrop.css"/>
+	<script src="jquery-1.4.2.min.js" />
+	<script src="Jcrop/jquery.Jcrop.js"/>
+	<source path='client' />
+</module>
